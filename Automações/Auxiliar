@@ -1,0 +1,7 @@
+import time
+import pyautogui
+
+time.sleep(5)
+print(pyautogui.position())
+
+# & "C:\Users\John Trabalho\.local\bin\python3.14.exe" -m pip install pyautogui --break-system-packages
